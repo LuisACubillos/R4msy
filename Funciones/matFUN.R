@@ -1,0 +1,1 @@
+matFUN <- function(a.mat,b.mat,L){1/(1+exp(-(a.mat+b.mat*L)))}

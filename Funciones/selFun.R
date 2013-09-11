@@ -1,0 +1,1 @@
+selFUN <- function(L50,L95,L){1/(1+exp(-log(19)*((L-L50)/(L95-L50))))}
